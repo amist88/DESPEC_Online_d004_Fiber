@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DEspec-Analysis-Framework
 C++ analysis framwork for the DESPEC campaign @ GSI/FAIR
 
@@ -67,3 +68,7 @@ To do (EVENTBUILDING):
   - How to build physical events?
 
 =======================================================================
+=======
+# DESPEC_Online_d004_Fiber
+Despec online code for d004 (Fiber test)
+>>>>>>> b4e9417d66f1ad98be4470ae08f3c543b135f5ce
